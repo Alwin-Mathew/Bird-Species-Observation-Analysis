@@ -26,7 +26,9 @@ Consolidate data from forest and grassland units into comparable formats.
 Analyze the distribution of species across administrative units and habitat types.
 Study observation frequency by year, month, and season.
 Investigate relationships between environmental conditions (e.g., temperature, humidity) and bird activity.
+
 Types of Analysis- Examples:
+    
     1. Temporal Analysis
     Seasonal Trends: Analyze the Date and Year columns to detect patterns in bird sightings across different seasons or years.
     Observation Time: Study the Start_Time and End_Time to determine if specific time windows correlate with higher bird activity.
